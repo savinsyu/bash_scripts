@@ -23,4 +23,4 @@ git pull &
 # Переходим в папку draft
 cd ~/draft &
 # Принимаем изменения с репозитория
-git pull &
+git pull
